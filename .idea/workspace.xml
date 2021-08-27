@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Photos">
-      <change afterPath="$PROJECT_DIR$/Web_ICP1/Documentation/img_4.png" afterDir="false" />
-    </list>
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add pull request photo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630096263359</updated>
       <workItem from="1630096265454" duration="64000" />
-      <workItem from="1630096387737" duration="2943000" />
+      <workItem from="1630096387737" duration="3277000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -101,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630099354464</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add pull request photo">
+      <created>1630099576951</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630099576951</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add pull request photo">
+      <created>1630099586955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630099586955</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +137,7 @@
     <MESSAGE value="Fix repo format" />
     <MESSAGE value="Fix Format further" />
     <MESSAGE value="Photos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Photos" />
+    <MESSAGE value="Add pull request photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add pull request photo" />
   </component>
 </project>
