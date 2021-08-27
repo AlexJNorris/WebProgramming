@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add README.md">
-      <change beforePath="$PROJECT_DIR$/ICP1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICP1/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Fix Format further" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP1\Source" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
@@ -64,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630096263359</updated>
       <workItem from="1630096265454" duration="64000" />
-      <workItem from="1630096387737" duration="2244000" />
+      <workItem from="1630096387737" duration="2627000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -73,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1630098552881</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix repo format">
+      <created>1630098848093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630098848093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix repo format">
+      <created>1630098869352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630098869352</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix Format further">
+      <created>1630099064767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630099064767</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +112,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Fix repo format" />
+    <MESSAGE value="Fix Format further" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Format further" />
   </component>
 </project>
