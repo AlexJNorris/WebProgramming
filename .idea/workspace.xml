@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ICP1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add README.md">
+      <change beforePath="$PROJECT_DIR$/ICP1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICP1/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1630096263359</updated>
       <workItem from="1630096265454" duration="64000" />
-      <workItem from="1630096387737" duration="1924000" />
+      <workItem from="1630096387737" duration="2244000" />
     </task>
+    <task id="LOCAL-00001" summary="Add README.md">
+      <created>1630098552881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630098552881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
 </project>
