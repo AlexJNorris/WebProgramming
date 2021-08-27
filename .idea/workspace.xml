@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add pull request photo" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add fork photo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630096263359</updated>
       <workItem from="1630096265454" duration="64000" />
-      <workItem from="1630096387737" duration="3277000" />
+      <workItem from="1630096387737" duration="3927000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630099586955</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add fork photo">
+      <created>1630099897779</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1630099897779</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
     <MESSAGE value="Fix Format further" />
     <MESSAGE value="Photos" />
     <MESSAGE value="Add pull request photo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pull request photo" />
+    <MESSAGE value="Add fork photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fork photo" />
   </component>
 </project>
