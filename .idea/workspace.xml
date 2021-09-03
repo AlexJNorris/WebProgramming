@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add fork photo" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add fork photo">
+      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/ToDo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/basicHTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/formRegistration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +62,13 @@
     <configuration name="Hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/ICP1/Hello.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/ICP1/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/source/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Hello.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
@@ -64,6 +86,7 @@
       <updated>1630096263359</updated>
       <workItem from="1630096265454" duration="64000" />
       <workItem from="1630096387737" duration="3927000" />
+      <workItem from="1630699395164" duration="4343000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -137,6 +160,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
