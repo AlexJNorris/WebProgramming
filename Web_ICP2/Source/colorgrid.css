@@ -1,0 +1,47 @@
+
+div{
+    margin-left:40%;
+}
+span{
+    height: 70px;
+    width:70px;
+    margin: 10px;
+}
+.top-left {
+    background-color: purple;
+    float: left;
+}
+.top-middle {
+    background-color: greenyellow;
+    float: left;
+}
+.top-right {
+    background-color: peru;
+    float: left;
+}
+.middle-left {
+    background-color: orangered;
+    clear: both;
+    float: left;
+}
+.middle {
+    background-color: gray;
+    float: left;
+}
+.middle-right {
+    background-color: aliceblue;
+    float: left;
+}
+.bottom-left {
+    background-color:yellow;
+    clear: both;
+    float: left;
+}
+.bottom-middle {
+    background-color: deeppink;
+    float: left;
+}
+.bottom-right {
+    background-color:black;
+    float: left;
+}
