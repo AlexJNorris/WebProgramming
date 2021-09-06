@@ -1,49 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add fork photo">
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/IndexPic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/colorGrid1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/cssTask1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/cssTask2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/cssTask3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/cssTask4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/cssTask5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/indexPic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Documentation/indexPic3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/Inclass/CSS_Inclass/ToDo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/basicHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/formRegistration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/images/img6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/Web_Lesson2/UC-Examples/HTML_Example/tables.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/colorgrid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP2/Source/colorgrid.html" afterDir="false" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/Inclass/CSS_Inclass/ToDo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/CSS_Example/google-homepage/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/basicHTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/formRegistration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/images/img6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Lesson2/UC-Examples/HTML_Example/tables.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,17 +34,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_ICP2/Source" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP2\Source" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP1\Source" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.colorgrid.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/ICP1/Hello.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -110,9 +73,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.colorgrid.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.Hello.html" />
       </list>
@@ -129,7 +92,7 @@
       <workItem from="1630096265454" duration="64000" />
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
-      <workItem from="1630877904657" duration="7796000" />
+      <workItem from="1630877904657" duration="9158000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -187,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630099897779</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add completed ICP 2">
+      <created>1630885857494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630885857494</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add completed ICP 2">
+      <created>1630886507595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1630886507595</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +190,7 @@
     <MESSAGE value="Photos" />
     <MESSAGE value="Add pull request photo" />
     <MESSAGE value="Add fork photo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fork photo" />
+    <MESSAGE value="Add completed ICP 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 2" />
   </component>
 </project>
