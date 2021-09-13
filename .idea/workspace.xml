@@ -2,8 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 2">
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/rps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_ICP2/Source/colorgrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP2/Source/colorgrid.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +81,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -35,28 +103,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_ICP2/Source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source\Web_Lesson3\InClassProgramming\RWD Task\input" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP2\Source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source" />
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source\Web_Lesson3" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP1\Source" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.colorgrid.html">
+  <component name="RunManager" selected="JavaScript Debug.input.html">
+    <configuration name="RPS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/RPS.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="colorgrid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/colorgrid.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/Web_Lesson2/Inclass/CSS_Inclass/GoogleTask/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/GoogleTask/index.html" useBuiltInWebServerPort="true">
@@ -65,20 +133,23 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/source/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="input.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.colorgrid.html" />
-      <item itemvalue="JavaScript Debug.index.html (2)" />
       <item itemvalue="JavaScript Debug.index.html (3)" />
+      <item itemvalue="JavaScript Debug.RPS.html" />
+      <item itemvalue="JavaScript Debug.input.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.input.html" />
+        <item itemvalue="JavaScript Debug.RPS.html" />
         <item itemvalue="JavaScript Debug.colorgrid.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +164,8 @@
       <workItem from="1630096265454" duration="64000" />
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
-      <workItem from="1630877904657" duration="9618000" />
+      <workItem from="1630877904657" duration="10070000" />
+      <workItem from="1631508262447" duration="6771000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -165,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630886507595</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add completed ICP 2">
+      <created>1630888049912</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630888049912</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
