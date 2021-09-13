@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3">
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps6.png" afterDir="false" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3 docs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_ICP3/Source/rps.js" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP3/Source/rps.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.input.html">
+  <component name="RunManager" selected="JavaScript Debug.RPS.html">
     <configuration name="RPS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/RPS.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -83,8 +78,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.input.html" />
         <item itemvalue="JavaScript Debug.RPS.html" />
+        <item itemvalue="JavaScript Debug.input.html" />
         <item itemvalue="JavaScript Debug.colorgrid.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -103,7 +98,7 @@
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
       <workItem from="1630877904657" duration="10070000" />
-      <workItem from="1631508262447" duration="7428000" />
+      <workItem from="1631508262447" duration="8013000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -189,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631515178068</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add completed ICP 3 docs">
+      <created>1631515862829</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1631515862829</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +219,7 @@
     <MESSAGE value="Add fork photo" />
     <MESSAGE value="Add completed ICP 2" />
     <MESSAGE value="Add completed ICP 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 3" />
+    <MESSAGE value="Add completed ICP 3 docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 3 docs" />
   </component>
 </project>

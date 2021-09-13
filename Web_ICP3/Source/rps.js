@@ -76,12 +76,12 @@ const game = () => {
             }
         }
     }
-    const playGame = () => {
-        const rock = document.querySelector('.rock');
-        const paper = document.querySelector('.paper');
+    const play = () => {
         const scissor = document.querySelector('.scissor');
-        const playerOptions = [rock,paper,scissor];
+        const paper = document.querySelector('.paper');
+        const rock = document.querySelector('.rock');
         const computerOptions = ['rock','paper','scissors']
+        const playerOptions = [rock,paper,scissor];
         playerOptions.forEach(option => {
             option.addEventListener('click',function(){
                 const choiceNumber = Math.floor(Math.random()*3);
@@ -90,6 +90,6 @@ const game = () => {
             })
         })
     }
-    playGame();
+    play();
 }
 game();
