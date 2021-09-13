@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3 docs" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3 docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +53,7 @@
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.RPS.html">
+  <component name="RunManager" selected="JavaScript Debug.input.html (1)">
     <configuration name="RPS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/RPS.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -60,26 +63,26 @@
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/GoogleTask/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/source/index.html" useBuiltInWebServerPort="true">
+    <configuration name="input.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/Web_Lesson3/RWD Task/input/input.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="input.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.colorgrid.html" />
       <item itemvalue="JavaScript Debug.index.html (3)" />
       <item itemvalue="JavaScript Debug.RPS.html" />
       <item itemvalue="JavaScript Debug.input.html" />
+      <item itemvalue="JavaScript Debug.input.html (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.input.html (1)" />
         <item itemvalue="JavaScript Debug.RPS.html" />
         <item itemvalue="JavaScript Debug.input.html" />
         <item itemvalue="JavaScript Debug.colorgrid.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +98,7 @@
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
       <workItem from="1630877904657" duration="10070000" />
-      <workItem from="1631508262447" duration="9245000" />
+      <workItem from="1631508262447" duration="9695000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -202,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631517387579</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add completed ICP 3 docs">
+      <created>1631517768085</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1631517768085</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
