@@ -44,14 +44,13 @@ const game = () => {
         if(player === computer){
             result.textContent = 'Tie'
         }
-        else if(player == 'rock'){
-            if(computer == 'paper'){
+        else if(player == 'paper'){
+            if(computer == 'scissors'){
                 result.textContent = 'Computer Won';
                 computerScore++;
                 computerScoreBoard.textContent = computerScore;
-
             }else{
-                result.textContent = 'Player Won'
+                result.textContent = 'Player Won';
                 playerScore++;
                 playerScoreBoard.textContent = playerScore;
             }
@@ -67,13 +66,14 @@ const game = () => {
                 playerScoreBoard.textContent = playerScore;
             }
         }
-        else if(player == 'paper'){
-            if(computer == 'scissors'){
+        else if(player == 'rock'){
+            if(computer == 'paper'){
                 result.textContent = 'Computer Won';
                 computerScore++;
                 computerScoreBoard.textContent = computerScore;
+
             }else{
-                result.textContent = 'Player Won';
+                result.textContent = 'Player Won'
                 playerScore++;
                 playerScoreBoard.textContent = playerScore;
             }
