@@ -1,8 +1,10 @@
-
+//Game class
 const game = () => {
     let playerScore = 0;
     let computerScore = 0;
     let moves = 0;
+
+    //methods to change UI
     const toRock = (UI) => {
         UI.style.backgroundPosition = '-50px 0px';
     }
@@ -26,6 +28,7 @@ const game = () => {
             toScissors(UI);
         }
     }
+    //determine the winner
     const determine = (player,computer) => {
         const result = document.querySelector('.result');
         const playerScoreBoard = document.querySelector('.p-count');
@@ -76,6 +79,7 @@ const game = () => {
             }
         }
     }
+    //Play a turn
     const play = () => {
         const scissor = document.querySelector('.scissor');
         const paper = document.querySelector('.paper');
@@ -90,6 +94,8 @@ const game = () => {
             })
         })
     }
+    //Repeat Game
     play();
 }
+//Start Game
 game();
