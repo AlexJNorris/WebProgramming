@@ -1,75 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 2">
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/rps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP3/Source/style.css" afterDir="false" />
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3">
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP3/Documentation/rps6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +103,7 @@
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
       <workItem from="1630877904657" duration="10070000" />
-      <workItem from="1631508262447" duration="6771000" />
+      <workItem from="1631508262447" duration="7428000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -244,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630888049912</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add completed ICP 3">
+      <created>1631515178068</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1631515178068</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +216,7 @@
     <MESSAGE value="Add pull request photo" />
     <MESSAGE value="Add fork photo" />
     <MESSAGE value="Add completed ICP 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 2" />
+    <MESSAGE value="Add completed ICP 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 3" />
   </component>
 </project>
