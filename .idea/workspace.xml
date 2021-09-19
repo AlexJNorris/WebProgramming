@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 4">
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/gitapi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/imageHover.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/gitapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/gitapi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +103,7 @@
       <workItem from="1630699395164" duration="5049000" />
       <workItem from="1630877904657" duration="10070000" />
       <workItem from="1631508262447" duration="10307000" />
-      <workItem from="1632083862620" duration="10177000" />
+      <workItem from="1632083862620" duration="11285000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -269,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631518153834</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add completed ICP 4">
+      <created>1632094138731</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1632094138731</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

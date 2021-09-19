@@ -4,15 +4,20 @@
     overflow: hidden;
     background-color: #e9e9e9;
 }
+/*input id*/
 #in{
     padding: 6px;
     margin: 0 auto;
     font-size: 17px;
     display: block;
 }
+
+/*profile picture id*/
 #pfp {
     margin: 0 auto;
 }
+
+/*name id*/
 #name {
     margin-top: 4rem;
     text-align: center;

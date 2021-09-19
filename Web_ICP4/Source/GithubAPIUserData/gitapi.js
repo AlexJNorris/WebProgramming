@@ -1,4 +1,5 @@
 import { Octokit } from "https://cdn.skypack.dev/@octokit/rest";
+//write user data to html elements
 const writeUserData = (user) => {
     const pfp = document.getElementById("pfp");
     const name = document.getElementById("name");
@@ -10,7 +11,7 @@ const writeUserData = (user) => {
     link.href = user.data.html_url;
     link.textContent = "GitHub Link";
 }
-
+//gets user data by GitHub API request
 async function getUser(userName) {
     const octokit = new Octokit();
     const result = await octokit.request('GET /users/' + userName);
@@ -18,7 +19,7 @@ async function getUser(userName) {
     console.log(`${result.data.avatar_url}`);
     writeUserData(result);
 }
-
+//adds listener to the search bar
 const listener = () => {
     const input = document.getElementById("in");
     //listen for enter to send input value
