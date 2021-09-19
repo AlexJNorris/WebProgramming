@@ -1,0 +1,31 @@
+
+.topnav {
+    width: 100%;
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+#in{
+    padding: 6px;
+    margin: 0 auto;
+    font-size: 17px;
+    display: block;
+}
+#pfp {
+    margin: 0 auto;
+}
+#name {
+    margin-top: 4rem;
+    text-align: center;
+}
+#userName {
+    margin-top: 6rem;
+    text-align: center;
+}
+#link {
+    text-align: center;
+}
+h3 {
+    margin-top: 6rem;
+    text-align: center;
+
+}

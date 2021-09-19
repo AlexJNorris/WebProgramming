@@ -1,9 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 3 docs">
+    <list default="true" id="35e471c0-246d-4cb7-b7b7-d2d271c76bbc" name="Changes" comment="Add completed ICP 4">
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/GHU6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Documentation/IH4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/gitapi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/GithubAPIUserData/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/hover_script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_ICP4/Source/ImageHover/imageHover.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_ICP3/Source/RPS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,53 +83,55 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Web_ICP4/GithubAPIUserData" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP4\GithubAPIUserData" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source\Web_Lesson3\InClassProgramming\RWD Task\input" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP2\Source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP4\Source" />
+      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP4\ImageHover" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source\Web_Lesson3" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP3\Source" />
       <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\Web_ICP1\Source" />
-      <recent name="C:\Users\alexn\Documents\Senior Year\Web, Cloud and Mobile\WebProgramming\ICP1" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.input.html (1)">
-    <configuration name="RPS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/RPS.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="imageHover.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP4/Source/ImageHover/imageHover.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="colorgrid.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/colorgrid.html" useBuiltInWebServerPort="true">
+    <configuration name="imageHover.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP4/ImageHover/imageHover.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP2/Source/GoogleTask/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP4/Source/GithubAPIUserData/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP4/GithubAPIUserData/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="input.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/Web_Lesson3/RWD Task/input/input.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="input.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebProgramming/Web_ICP3/Source/Web_Lesson3/InClassProgramming/RWD Task/input/input.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.colorgrid.html" />
-      <item itemvalue="JavaScript Debug.index.html (3)" />
-      <item itemvalue="JavaScript Debug.RPS.html" />
-      <item itemvalue="JavaScript Debug.input.html" />
       <item itemvalue="JavaScript Debug.input.html (1)" />
+      <item itemvalue="JavaScript Debug.imageHover.html" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.imageHover.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.imageHover.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.imageHover.html" />
         <item itemvalue="JavaScript Debug.input.html (1)" />
-        <item itemvalue="JavaScript Debug.RPS.html" />
-        <item itemvalue="JavaScript Debug.input.html" />
-        <item itemvalue="JavaScript Debug.colorgrid.html" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +147,8 @@
       <workItem from="1630096387737" duration="3927000" />
       <workItem from="1630699395164" duration="5049000" />
       <workItem from="1630877904657" duration="10070000" />
-      <workItem from="1631508262447" duration="9695000" />
+      <workItem from="1631508262447" duration="10307000" />
+      <workItem from="1632083862620" duration="10177000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1630098552881</created>
@@ -212,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631517768085</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add completed ICP 3 docs">
+      <created>1631518153834</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1631518153834</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +298,7 @@
     <MESSAGE value="Add completed ICP 2" />
     <MESSAGE value="Add completed ICP 3" />
     <MESSAGE value="Add completed ICP 3 docs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 3 docs" />
+    <MESSAGE value="Add completed ICP 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add completed ICP 4" />
   </component>
 </project>
